@@ -1,2 +1,2 @@
 # Dig Dug Japanese Artwork
-Vector versions of the artwork that would be used on the Japanese Namco Dig Dug cabinet.
+Vector versions of the artwork that would be used on the Japanese Namco Dig Dug cabinet. A thread was created on Klov https://forums.arcade-museum.com/threads/japanese-namco-upright-bezel-artwork.507450/ containing images of the artwork found for the Japanese version of the Dig Dug arcade cabinet.  If these images could be vectorized, they would lend themselves to being used on reproduction cabinets. 
