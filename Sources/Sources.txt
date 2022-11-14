@@ -1,0 +1,20 @@
+Flyer
+https://www.flyerfever.com/dig-dug/
+
+Instruction card
+https://newastrocity.files.wordpress.com/2014/09/20140801-dig-dug-marquee.jpg
+
+Side art
+https://forums.arcade-museum.com/threads/japanese-namco-upright-bezel-artwork.507450/page-2
+
+Marquee and Bezel
+https://forums.arcade-museum.com/threads/japanese-namco-upright-bezel-artwork.507450/
+
+Sprites
+https://www.spriters-resource.com/arcade/digdug/
+
+Namco logo
+https://upload.wikimedia.org/wikipedia/commons/9/95/Namco_logo.svg
+
+Dig Dug logo
+https://github.com/opengateware/arcade-digdug/blob/master/docs/Dig_Dug.svg
