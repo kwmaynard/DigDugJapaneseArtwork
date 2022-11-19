@@ -18,3 +18,6 @@ https://upload.wikimedia.org/wikipedia/commons/9/95/Namco_logo.svg
 
 Dig Dug logo
 https://github.com/opengateware/arcade-digdug/blob/master/docs/Dig_Dug.svg
+
+Vector Art
+http://vectorlib.free.fr/DigDug/
